@@ -1,2 +1,2 @@
-# fun-py-deco
-Fun with Python Decorators
+# decorators
+Experiments with Python Decorators
